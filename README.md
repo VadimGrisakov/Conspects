@@ -1,5 +1,3 @@
-02.09.25
-
-План на 5-ый семестр
+02.09.25. План на 5-ый семестр.
 
 https://docs.google.com/document/d/12dPBf45B6eDTeMZnts4FPX632PSJhbLyvTbeZEgsW5Y/edit?tab=t.0
