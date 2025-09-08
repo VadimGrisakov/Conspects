@@ -9,3 +9,5 @@ https://hh.ru/applicant/resumes
 08.09.25.
 
 https://docs.google.com/document/d/1cdozQ3rmKQHKRLJ1axJVXZLHBCWlq80JxoaeSJTpyfA/edit?tab=t.0
+
+https://drive.google.com/file/d/1qZbZF3DTGLK6TkE1Fqk0N7zjZAUk5FVS/view?usp=drive_link
