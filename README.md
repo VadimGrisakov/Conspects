@@ -2,6 +2,10 @@
 
 https://docs.google.com/document/d/12dPBf45B6eDTeMZnts4FPX632PSJhbLyvTbeZEgsW5Y/edit?tab=t.0
 
+Как я провёл лето
+
+file:///C:/Users/user/Desktop/%D0%92%D0%B0%D0%B4%D0%B8%D0%BC/%D0%9A%D0%B0%D0%BA%20%D1%8F%20%D0%BF%D1%80%D0%BE%D0%B2%D1%91%D0%BB%20%D0%BB%D0%B5%D1%82%D0%BE.html
+
 03.09.25.
 
 https://hh.ru/applicant/resumes
