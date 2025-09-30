@@ -28,6 +28,6 @@ https://drive.google.com/file/d/1qZbZF3DTGLK6TkE1Fqk0N7zjZAUk5FVS/view?usp=drive
 
 https://docs.google.com/document/d/1XXS_DeQmaOiiTw3rt57pUGpMESwAdXcDvot31run8zE/edit?tab=t.0
 
-Stepik_SQLite: https://stepik.org/lesson/50153/step/1?after_pass_reset=true&auth=login&unit=28685
+Stepik_SQLite: https://stepik.org/lesson/1188195/step/6?unit=1201065
 
 Цифровая безопасность: https://docs.google.com/document/d/1-F5Kl9orI9NETd6z-lT8KEujbzVsUQxwNbJQYw16HYo/edit?tab=t.0
