@@ -33,3 +33,13 @@ Stepik_SQLite: https://stepik.org/lesson/1188195/step/6?unit=1201065
 Цифровая безопасность: https://docs.google.com/document/d/1-F5Kl9orI9NETd6z-lT8KEujbzVsUQxwNbJQYw16HYo/edit?tab=t.0
 
 Glide: https://go.glideapps.com/app/61Jxs6xXaWkyc3OT77UZ/layout
+
+### 08.10.25
+
+Git. Smartiqa: https://smartiqa.ru/courses/git/answer-key
+
+Конспект: https://docs.google.com/document/d/1E6X2lSAMEpcHGsYKq9M2zWre4GPH9-wtYM8B_70c1TQ/edit?tab=t.0#heading=h.kftbtlfqwhby
+
+Git. Stepik: https://stepik.org/lesson/1941458/step/2?unit=1968199
+
+Конспект: https://docs.google.com/document/d/1O1w3SKMkuMx9nXaqdFSo4y4V1mnzvcHK1gdq6QfaFuY/edit?tab=t.0
