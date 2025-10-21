@@ -43,3 +43,5 @@ Git. Smartiqa: https://smartiqa.ru/courses/git/answer-key
 Git. Stepik: https://stepik.org/lesson/1941458/step/2?unit=1968199
 
 Конспект: https://docs.google.com/document/d/1O1w3SKMkuMx9nXaqdFSo4y4V1mnzvcHK1gdq6QfaFuY/edit?tab=t.0
+
+Тестирование_Яндекс Практикум: https://practicum.yandex.ru/trainer/qa-engineer-plus/lesson/8aa270f3-ed73-418a-85c7-b5f86cd745ce/
