@@ -53,3 +53,4 @@ Git. Stepik: https://stepik.org/lesson/1941458/step/2?unit=1968199
 Python для базы данных для заполнения шаблонов 1): https://docs.google.com/document/d/15VOAMAgtiqmElgQoDdgpaub6_eTIDaW92rt6dwsWxx8/edit?tab=t.0
 
 Python для базы данных для заполнения шаблонов 2): https://docs.google.com/document/d/1o57IX_qAbW9zmegz1gFr6ZZJpqSsvUKDxdsLwTrssa8/edit?tab=t.0
+
