@@ -1,6 +1,10 @@
-02.09.25 и 12.01.26. План на 5-ый и 6-ой семестры.
+### 02.09.25 и 12.01.26. План на 5-ый и 6-ой семестры.
 
 https://docs.google.com/document/d/12dPBf45B6eDTeMZnts4FPX632PSJhbLyvTbeZEgsW5Y/edit?tab=t.0
+
+### 12.01.26. Папка 6-ой семестр.
+
+https://drive.google.com/drive/folders/1HdaYdBTv_gs8rA1xA8ozs2l0ekRdN_in
 
 03.09.25.
 
